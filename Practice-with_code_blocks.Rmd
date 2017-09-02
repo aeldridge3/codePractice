@@ -70,14 +70,17 @@ help(m111survey)
 
 How many students took part in this survey?
 
+Seventy-one students took part in the survey.
 
 ## Practice Part b
 
 Is **fastest** a numerical variable or a factor variable?
 
+Fastest is numerical.
 
 Is **seat** a numerical variable or a factor variable?
 
+Seat is a factor variable.
 
 ## Practice Part c
 
